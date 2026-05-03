@@ -1,0 +1,109 @@
+/* --- 基本設定 --- */
+body {
+  font-family: "Hiragino Kaku Gothic ProN", "Yu Gothic", Meiryo, sans-serif;
+  font-size: 14px;
+  line-height: 1.4;
+  color: #222;
+  background-color: #fff;
+  margin: 0;
+  padding: 0;
+}
+
+/* --- 全体ラップ --- */
+#wrap {
+  width: 960px;
+  margin: 0 auto;
+}
+
+/* --- ヘッダー --- */
+#header {
+  padding: 10px 0;
+}
+
+#header h1 {
+  font-size: 22px;
+  margin: 0;
+}
+
+#header h2 {
+  font-size: 14px;
+  margin: 0;
+  color: #666;
+}
+
+/* --- メニュー --- */
+#menu ul {
+  list-style: none;
+  padding: 0;
+  margin: 10px 0;
+}
+
+#menu li {
+  display: inline;
+  margin-right: 10px;
+}
+
+/* --- コンテンツ --- */
+#content {
+  overflow: hidden; /* floatクリア */
+}
+
+/* 左カラム */
+.left {
+  float: left;
+  width: 650px;
+}
+
+/* 右カラム */
+.right {
+  float: right;
+  width: 260px;
+}
+
+/* --- 見出し --- */
+h2 {
+  font-size: 18px;
+  margin: 10px 0;
+}
+
+h3 {
+  font-size: 16px;
+  margin: 10px 0;
+}
+
+h4 {
+  font-size: 14px;
+  margin: 8px 0;
+}
+
+/* --- リンク --- */
+a {
+  color: #0033cc;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+/* --- 画像 --- */
+img {
+  max-width: 100%;
+  height: auto;
+  border: none;
+}
+
+/* --- フッター --- */
+#footer {
+  margin-top: 20px;
+  padding-top: 10px;
+  border-top: 1px solid #ccc;
+  text-align: center;
+  font-size: 12px;
+  color: #666;
+}
+
+/* --- 微調整（重要：行間は触らない） --- */
+br {
+  line-height: normal;
+}

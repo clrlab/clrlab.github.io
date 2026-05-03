@@ -1,0 +1,412 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="ja">
+<head>
+  <meta http-equiv="content-type" content="application/xhtml+xml; charset=UTF-8" />
+  <title>J.A. - Remmurd the drummeR</title>
+  <meta http-equiv="Content-Language" content="English" />
+
+  <link rel="stylesheet" href="style.css" media="screen" />
+  <link rel="icon" type="image/png" href="/favicon-96x96.png" sizes="96x96" />
+  <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+  <link rel="shortcut icon" href="/favicon.ico" />
+  <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png" />
+  <link rel="manifest" href="/site.webmanifest" />
+
+  <script charset="UTF-8" src="resource/lightbox_plus_min.js"></script>
+</head>
+
+  <body>
+    <div id="wrap">
+      <div id="header">
+        <h1><a href="#">Live information</a></h1>
+        <h2>Remmurd the drummeR</h2>
+      </div>
+      <div id="menu">
+        <ul>
+          <li><a href="index.html">Home</a></li>
+          <li><a href="gear.html">Gear</a></li>
+          <li><a href="gig.html">Gig</a></li>
+          <li><a href="past.html">Gigography</a></li>
+          <li><a href="link.html">Link</a></li>
+          <li><a href="musician.html">Musician</a></li>
+          <li> <br />
+          </li>
+          <li> <br />
+          </li>
+          <li> <br />
+          </li>
+        </ul>
+      </div>
+      <br />
+      <div id="content">
+        <div class="left">
+          <h2><span style="font-weight: bold;">ライブ情報</span></h2>
+          <br />
+
+         <h3> 2026年</h3>
+
+          <h4>【1月】</h4>
+          3(土) Amelia w 'S Wonderful Trio
+          <a rel="lightbox" href="flyer/260103.png"><img src="images/flyer.png" /></a><br />
+          <div style="margin-left: 40px;"> 20:30 <a href="https://jazzspotveejay.com/">VeeJay</a>/四日市<br />
+            Amelia，森田純代，西村ヒロ</div>
+          9(金) Bossa Nova Night w 朝香・草野由花子 (vol.162)
+          <a rel="lightbox" href="flyer/260109.png"><img src="images/flyer.png" /></a><br />
+          <div style="margin-left: 40px;"> 20:00 <a href="http://www.sixty-six-live.com/">SIXTY SIX</a>/四日市<br />
+            朝香，草野由花子，青木弦六，Woody坂倉</div>
+          10(土) June 6th in California 10周年 special
+          <a rel="lightbox" href="flyer/260110.png"><img src="images/flyer.png" /></a><br />
+          <div style="margin-left: 40px;"> 20:00 <a href="http://www.sixty-six-live.com/">SIXTY SIX</a>/四日市<br />
+            西川雄三郎，たなじゅん，Dan Wilkinson，モロオカケイイチ</div>
+          21(水) 66 Session Vol.153
+          <a rel="lightbox" href="flyer/260121.png"><img src="images/flyer.png" /></a><br />
+          <div style="margin-left: 40px;"> 20:00 <a href="http://www.sixty-six-live.com/">SIXTY SIX</a>/四日市<br />
+            森田純代，土田邦雄</div>
+          23(金) Carrera Session vol.89(83)
+          <a rel="lightbox" href="flyer/260123.png"><img src="images/flyer.png" /></a><br />
+          <div style="margin-left: 40px;"> 19:30 <a href="http://clrlab.net/carrera/">Carrera</a>/鈴鹿<br />
+            石橋大輔，串原光星</div>
+          25(日) 吉田淳子 w 後藤勇人4
+          <a rel="lightbox" href="flyer/260125.png"><img src="images/flyer.png" /></a><br />
+          <div style="margin-left: 40px;">  <a href="">河崎蔵</a>/伊勢<br />
+            吉田淳子(vo)，後藤勇人(ts,ss)，野坂美紀(g)，伊藤靖雄(b)</div>
+          31(土) 森まいん Bloom 'n' Groove
+          <a rel="lightbox" href="flyer/260131.png"><img src="images/flyer.png" /></a><br />
+          <div style="margin-left: 40px;"> 20:30 <a href="https://jazzspotveejay.com/">VeeJay</a>/四日市<br />
+            森まいん(vo)，仲尾ゆう(p)，串原光星(b)</div>
+<br />
+          <h4>【2月】</h4>
+          6(金) Bossa Nova Night w はやみまき (vol.163)
+          <a rel="lightbox" href="flyer/260206.png"><img src="images/flyer.png" /></a><br />
+          <div style="margin-left: 40px;"> 20:00 <a href="http://www.sixty-six-live.com/">SIXTY SIX</a>/四日市<br />
+            青木弦六(g)，Woody坂倉(b)，はやみまき(vo)</div>
+          14(土) 305SP
+          <a rel="lightbox" href="flyer/260214.png"><img src="images/flyer.png" /></a><br />
+          <div style="margin-left: 40px;"> 20:30 <a href="https://jazzspotveejay.com/">VeeJay</a>/四日市<br />
+            美和子(vo)，小笠原岳海(g)，ヒゲベ(b)</div>
+          15(日) イトウマユコ3
+          <a rel="lightbox" href="flyer/260215.png"><img src="images/flyer.png" /></a><br />
+          <div style="margin-left: 40px;"> 20:00 <a href="http://www.sixty-six-live.com/">SIXTY SIX</a>/四日市<br />
+            イトウマユコ(p)，串原光星(b)，<del>yoheyhey(vo)</del></div>
+          15(日) 後藤勇人4wメグ・ササキ 
+          <a rel="lightbox" href="flyer/260215.png"><img src="images/flyer.png" /></a><br />
+          <div style="margin-left: 40px;"> 19:30 <a href="http://clrlab.net/carrera/">Carrera</a>/鈴鹿<br />
+            後藤勇人(ts,ss)，野坂美紀(g)，伊藤靖雄(b)，メグ・ササキ(vo)</div>
+          18(水) 66 Session Vol.154
+          <a rel="lightbox" href="flyer/260218.png"><img src="images/flyer.png" /></a><br />
+          <div style="margin-left: 40px;"> 20:00 <a href="http://www.sixty-six-live.com/">SIXTY SIX</a>/四日市<br />
+            森田純代，土田邦雄</div>
+          22(日) Joshua Breakstone 3
+          <a rel="lightbox" href="flyer/260222.png"><img src="images/flyer.png" /></a><br />
+          <div style="margin-left: 40px;">  <a href="https://access2021.wixsite.com/bran">BRAN</a>/津<br />
+            Joshua Breakstone(g)，荒川悟志(b)</div>
+          27(金) Carrera Session vol.90(84)
+          <a rel="lightbox" href="flyer/260227.png"><img src="images/flyer.png" /></a><br />
+          <div style="margin-left: 40px;"> 19:30 <a href="http://clrlab.net/carrera/">Carrera</a>/鈴鹿<br />
+            馬橋清(p)，西村ヒロ(b)</div>
+<br />
+          <h4>【3月】</h4>
+          6(金) Bossa Nova Night w Amelia(vol.164)
+          <a rel="lightbox" href="flyer/260306.png"><img src="images/flyer.png" /></a><br />
+          <div style="margin-left: 40px;"> 20:00 <a href="http://www.sixty-six-live.com/">SIXTY SIX</a>/四日市<br />
+            青木弦六(g)，Woody坂倉(b)，Amelia(vo)</div>
+          7(土) Yukico ゲン・アラモーロ＆ユキコ歌謡ショー
+          <a rel="lightbox" href="flyer/260307.png"><img src="images/flyer.png" /></a><br />
+          <div style="margin-left: 40px;">  <a href="">喫茶alice</a>/名古屋<br />
+            青木弦六(g)，モロオカケイイチ(b)，Yukico(vo)</div>
+          15(日) ハワイアン・アイズ
+          <a rel="lightbox" href="flyer/260315.png"><img src="images/flyer.png" /></a><br />
+          <div style="margin-left: 40px;">  <a href="">リンクス</a>/吉良町<br />
+            塩崎保則(g,vo)，青木弦六(g)，田村博文(b)，田中奈月(vo)</div>
+          18(水) 66 Session Vol.155
+          <a rel="lightbox" href="flyer/260318.png"><img src="images/flyer.png" /></a><br />
+          <div style="margin-left: 40px;"> 20:00 <a href="http://www.sixty-six-live.com/">SIXTY SIX</a>/四日市<br />
+            森田純代(p)，土田邦夫(b)</div>
+          23(月) 水野久美子quartet
+          <a rel="lightbox" href="flyer/260323.png"><img src="images/flyer.png" /></a><br />
+          <div style="margin-left: 40px;">  <a href="https://www.stareyes.jp/">Star☆eyes</a>/名古屋<br />
+            水野久美子(p)，青木弦六(g)，小林伸司(b)</div>
+          27(金) Carrera Jazz Session
+          <a rel="lightbox" href="flyer/260327.png"><img src="images/flyer.png" /></a><br />
+          <div style="margin-left: 40px;"> 19:30 <a href="http://clrlab.net/carrera/">Carrera</a>/鈴鹿<br />
+            鈴村恵理(p)，川合進(b)</div>
+<br />
+          <h4>【4月】</h4>
+          2(木) 水野久美子quartet
+          <a rel="lightbox" href="flyer/260402.png"><img src="images/flyer.png" /></a><br />
+          <div style="margin-left: 40px;">  <a href="https://www.stareyes.jp/">Star☆eyes</a>/名古屋<br />
+            水野久美子(p)，小林伸司(b)，野坂美紀(g)</div>
+          3(金) Bossa Nova Night w うさみまなみ(vol.165)
+          <a rel="lightbox" href="flyer/260403.png"><img src="images/flyer.png" /></a><br />
+          <div style="margin-left: 40px;"> 20:00 <a href="http://www.sixty-six-live.com/">SIXTY SIX</a>/四日市<br />
+            青木弦六(g)，Woody坂倉(b)，うさみまなみ(vo)</div>
+          10(金) Bell Cherry w/ Dizzy 吉本3 
+          <a rel="lightbox" href="flyer/260410.png"><img src="images/flyer.png" /></a><br />
+          <div style="margin-left: 40px;">  <a href="https://www.imago-jazz.com/">Imago</a>/名古屋<br />
+            Bell Cherry(vo)，Dizzy 吉本(b)，武元理恵子(p)</div>
+          11(土) 吉田淳子＋後藤勇人４
+          <a rel="lightbox" href="flyer/260411.png"><img src="images/flyer.png" /></a><br />
+          <div style="margin-left: 40px;"> 20:30 <a href="https://jazzspotveejay.com/">VeeJay</a>/四日市<br />
+            吉田淳子(vo)，後藤勇人(ts)，野坂美紀(g)，伊藤靖雄(b)</div>
+          15(水) 66 Session Vol.156
+          <a rel="lightbox" href="flyer/260415.png"><img src="images/flyer.png" /></a><br />
+          <div style="margin-left: 40px;"> 20:00 <a href="http://www.sixty-six-live.com/">SIXTY SIX</a>/四日市<br />
+            Panda 岡崎(p)，土田邦夫(b)</div>
+          18(土) Ah-Un Talk
+          <a rel="lightbox" href="flyer/260418.png"><img src="images/flyer.png" /></a><br />
+          <div style="margin-left: 40px;">  <a href="https://sites.google.com/view/streganagoya/top">Strega</a>/名古屋<br />
+            野坂美紀(g)，モロオカケイイチ(b)</div>
+          26(日) 牛嶋音楽祭(ボーカル教室発表会サポート)
+          <a rel="lightbox" href="flyer/260426.png"><img src="images/flyer.png" /></a><br />
+          <div style="margin-left: 40px;">  <a href="">あさけプラザ</a>/四日市<br />
+            近藤有輝(p)，北浦豊(b)，湯田大道(g)</div>
+          28(火) 服部陽介＆竹内一史Quintet
+          <a rel="lightbox" href="flyer/260428.png"><img src="images/flyer.png" /></a><br />
+          <div style="margin-left: 40px;"> 20:30 <a href="https://jazzspotveejay.com/">VeeJay</a>/四日市<br />
+            服部陽介(tb)，竹内一史(tp)，パンダ岡崎(p)，西村ヒロ(b)</div>
+          30(木) Carrera Jam Session Vol.93
+          <a rel="lightbox" href="flyer/260430.png"><img src="images/flyer.png" /></a><br />
+          <div style="margin-left: 40px;"> 19:30 <a href="http://clrlab.net/carrera/">Carrera</a>/鈴鹿<br />
+            Panda 岡崎(p)，串原光星(b)</div>
+<br />
+          <h4>【5月】</h4>
+          1(金) Bossa Nova Night w/大塚桜 Vol.167
+          <a rel="lightbox" href="flyer/260501.png"><img src="images/flyer.png" /></a><br />
+          <div style="margin-left: 40px;"> 20:00 <a href="http://www.sixty-six-live.com/">SIXTY SIX</a>/四日市<br />
+            青木弦六(g)，Woody坂倉(b)，大塚桜(vo)</div>
+          2(土) Port Jazz 2026 プレイベント(guest)
+          <a rel="lightbox" href="flyer/260502.png"><img src="images/flyer.png" /></a><br />
+          <div style="margin-left: 40px;">  <a href="https://www.aeon.jp/sc/soyora-suzukashiroko/">そよら</a>/鈴鹿<br />
+            西村ヒロ(b)，後藤恵里沙(vn)，西村(p)</div>
+          2(土) 中山静雄カルテット with はやみまき 
+          <a rel="lightbox" href="flyer/260502.png"><img src="images/flyer.png" /></a><br />
+          <div style="margin-left: 40px;"> 20:30 <a href="https://jazzspotveejay.com/">VeeJay</a>/四日市<br />
+            中山静雄(p)，勝野友葵(ts)，新コージ(b)，はやみまき(vo)</div>
+          8(金) 305SP
+          <a rel="lightbox" href="flyer/260508.png"><img src="images/flyer.png" /></a><br />
+          <div style="margin-left: 40px;">  <a href="https://buzzle-bunch.com/">Buzzle Bunch</a>/豊橋<br />
+            美和子(vo)，小笠原岳海(g)，ヒゲベ(b)</div>
+          20(水) 66 Session vol.156
+          <a rel="lightbox" href="flyer/260520.png"><img src="images/flyer.png" /></a><br />
+          <div style="margin-left: 40px;"> 20:00 <a href="http://www.sixty-six-live.com/">SIXTY SIX</a>/四日市<br />
+            パンダ岡崎(p)，土田邦夫(b)</div>
+          22(金) Carrera Jam Session Vol.94
+          <a rel="lightbox" href="flyer/260522.png"><img src="images/flyer.png" /></a><br />
+          <div style="margin-left: 40px;"> 19:30 <a href="http://clrlab.net/carrera/">Carrera</a>/鈴鹿<br />
+            成瀬順一(org)</div>
+          31(日) Michiyo and the GReAT4 
+          <a rel="lightbox" href="flyer/260531.png"><img src="images/flyer.png" /></a><br />
+          <div style="margin-left: 40px;"> 20:00 <a href="http://www.sixty-six-live.com/">SIXTY SIX</a>/四日市<br />
+            Michiyo(vo)，武元理恵子(p)，Gumi(vn)，にきたかお(b)</div>
+<br />
+          <h4>【6月】</h4>
+          5(金) Bossa Nova Night w/Yukico Vol.168
+          <a rel="lightbox" href="flyer/260605.png"><img src="images/flyer.png" /></a><br />
+          <div style="margin-left: 40px;"> 20:00 <a href="http://www.sixty-six-live.com/">SIXTY SIX</a>/四日市<br />
+            青木弦六(g)，Woody坂倉(b)，Yukio(vo)</div>
+          6(土) June 6th in California (66の日) 
+          <a rel="lightbox" href="flyer/260606.png"><img src="images/flyer.png" /></a><br />
+          <div style="margin-left: 40px;"> 20:00 <a href="http://www.sixty-six-live.com/">SIXTY SIX</a>/四日市<br />
+            西川雄三郎(g,vo)，たなじゅん(vo,g)，Dan Wilkinson(vo)，Sawako(kb)，モロオカケイイチ(b)</div>
+          6(土) Port Jazz festival 2026
+          <a rel="lightbox" href="flyer/260606.png"><img src="images/flyer.png" /></a><br />
+          <div style="margin-left: 40px;">  <a href="https://www.aeon.jp/sc/soyora-suzukashiroko/">そよら</a>/鈴鹿<br />
+            未定</div>
+          7(日) Port Jazz festival 2026
+          <a rel="lightbox" href="flyer/260607.png"><img src="images/flyer.png" /></a><br />
+          <div style="margin-left: 40px;">  <a href="https://www.aeon.jp/sc/soyora-suzukashiroko/">そよら</a>/鈴鹿<br />
+            未定</div>
+          13(土) 後藤勇人 Quartet feat. メグ・ササキ 
+          <a rel="lightbox" href="flyer/260613.png"><img src="images/flyer.png" /></a><br />
+          <div style="margin-left: 40px;"> 19:30 <a href="http://clrlab.net/carrera/">Carrera</a>/鈴鹿<br />
+            後藤勇人(ts,ss)，野坂美紀(g)，伊藤靖雄(b)，メグ・ササキ(vo)</div>
+          14(日) Groove Mates
+          <a rel="lightbox" href="flyer/260614.png"><img src="images/flyer.png" /></a><br />
+          <div style="margin-left: 40px;">  <a href="http://jazzdojo.web.fc2.com/">Groove</a>/鈴鹿<br />
+            西村晃平(p)，田中健二(g)，中川亮(b)</div>
+          17(水) 66 Session vol.157
+          <a rel="lightbox" href="flyer/260617.png"><img src="images/flyer.png" /></a><br />
+          <div style="margin-left: 40px;"> 20:00 <a href="http://www.sixty-six-live.com/">SIXTY SIX</a>/四日市<br />
+            土田邦夫(b)</div>
+          26(金) Carrera Jam Session Vol.95
+          <a rel="lightbox" href="flyer/260626.png"><img src="images/flyer.png" /></a><br />
+          <div style="margin-left: 40px;"> 19:30 <a href="http://clrlab.net/carrera/">Carrera</a>/鈴鹿<br />
+            未定</div>
+          27(土) Dizzy吉本3 w/Michiyo
+          <a rel="lightbox" href="flyer/260627.png"><img src="images/flyer.png" /></a><br />
+          <div style="margin-left: 40px;">  <a href="https://www.imago-jazz.com/">Imago</a>/名古屋<br />
+            Dizzy吉本(b)，井戸ひろみ(p)，Michiyo(vo)，Love(vo)</div>
+          28(日) うさみまなみQuartet
+          <a rel="lightbox" href="flyer/260628.png"><img src="images/flyer.png" /></a><br />
+          <div style="margin-left: 40px;"> 19:30 <a href="http://clrlab.net/carrera/">Carrera</a>/鈴鹿<br />
+            うさみまなみ(vo)，モロオカケイイチ(b)，西村晃平(p)</div>
+<br />
+          <h4>【7月】</h4>
+          3(金) Bossa Nova Night Vol.169
+          <a rel="lightbox" href="flyer/260703.png"><img src="images/flyer.png" /></a><br />
+          <div style="margin-left: 40px;"> 20:00 <a href="http://www.sixty-six-live.com/">SIXTY SIX</a>/四日市<br />
+            青木弦六(g)，Woody坂倉(b)</div>
+          4(土) Groovin
+          <a rel="lightbox" href="flyer/260704.png"><img src="images/flyer.png" /></a><br />
+          <div style="margin-left: 40px;"> 20:30 <a href="https://jazzspotveejay.com/">VeeJay</a>/四日市<br />
+            田中健二(g)，西村晃平(p)，畑和彦(b)，他</div>
+          10(金) Amelia
+          <a rel="lightbox" href="flyer/260710.png"><img src="images/flyer.png" /></a><br />
+          <div style="margin-left: 40px;">  <a href="https://www.instagram.com/cafeatlas_jazz_and_antiques/">Cafe Atlas</a>/四日市<br />
+            Amelia(vo)，乾麻衣(p)，Caio Philip Handa(g)</div>
+          11(土) 305SP
+          <a rel="lightbox" href="flyer/260711.png"><img src="images/flyer.png" /></a><br />
+          <div style="margin-left: 40px;"> 20:30 <a href="https://jazzspotveejay.com/">VeeJay</a>/四日市<br />
+            美和子(vo)，小笠原岳海(g)，ヒゲベ(b)</div>
+          15(水) 66 Session vol.157
+          <a rel="lightbox" href="flyer/260715.png"><img src="images/flyer.png" /></a><br />
+          <div style="margin-left: 40px;"> 20:00 <a href="http://www.sixty-six-live.com/">SIXTY SIX</a>/四日市<br />
+            土田邦夫(b)</div>
+          24(金) Carrera Jam Session Vol.96
+          <a rel="lightbox" href="flyer/260724.png"><img src="images/flyer.png" /></a><br />
+          <div style="margin-left: 40px;"> 19:30 <a href="http://clrlab.net/carrera/">Carrera</a>/鈴鹿<br />
+            石橋大輔(p)，串原光星(b)</div>
+          26(日) 井口澄夫tribute 後藤勇人
+          <a rel="lightbox" href="flyer/260726.png"><img src="images/flyer.png" /></a><br />
+          <div style="margin-left: 40px;"> 19:30 <a href="https://takezero-jazz.amebaownd.com/">Take Zero</a>/四日市<br />
+            後藤勇人(ts,ss)，ローディー池田(tp)，メグ・ササキ(vo)，はやしかな(b)，森田純代(p)</div>
+<br />
+          <h4>【8月】</h4>
+          7(金) Bossa Nova Night Vol.170
+          <a rel="lightbox" href="flyer/260807.png"><img src="images/flyer.png" /></a><br />
+          <div style="margin-left: 40px;"> 20:00 <a href="http://www.sixty-six-live.com/">SIXTY SIX</a>/四日市<br />
+            青木弦六(g)，Woody坂倉(b)</div>
+          19(水) 66 Session vol.158
+          <a rel="lightbox" href="flyer/260819.png"><img src="images/flyer.png" /></a><br />
+          <div style="margin-left: 40px;"> 20:00 <a href="http://www.sixty-six-live.com/">SIXTY SIX</a>/四日市<br />
+            森田純代(p)，土田邦雄(b)</div>
+          28(金) Carrera Jam Session Vol.97
+          <a rel="lightbox" href="flyer/260828.png"><img src="images/flyer.png" /></a><br />
+          <div style="margin-left: 40px;"> 19:30 <a href="http://clrlab.net/carrera/">Carrera</a>/鈴鹿<br />
+            未定</div>
+<br />
+          <h4>【9月】</h4>
+          4(金) Bossa Nova Night Vol.171
+          <a rel="lightbox" href="flyer/260904.png"><img src="images/flyer.png" /></a><br />
+          <div style="margin-left: 40px;"> 20:00 <a href="http://www.sixty-six-live.com/">SIXTY SIX</a>/四日市<br />
+            青木弦六(g)，Woody坂倉(b)</div>
+          16(水) 66 Session vol.159
+          <a rel="lightbox" href="flyer/260916.png"><img src="images/flyer.png" /></a><br />
+          <div style="margin-left: 40px;"> 20:00 <a href="http://www.sixty-six-live.com/">SIXTY SIX</a>/四日市<br />
+            森田純代(p)，土田邦雄(b)</div>
+          23(水) にじいろこんさ～と
+          <a rel="lightbox" href="flyer/260923.png"><img src="images/flyer.png" /></a><br />
+          <div style="margin-left: 40px;">  <a href="">あさけプラザ</a>/四日市<br />
+            西村ヒロ(b)</div>
+          25(金) Carrera Jam Session Vol.98
+          <a rel="lightbox" href="flyer/260925.png"><img src="images/flyer.png" /></a><br />
+          <div style="margin-left: 40px;"> 19:30 <a href="http://clrlab.net/carrera/">Carrera</a>/鈴鹿<br />
+            未定</div>
+<br />
+          <h4>【10月】</h4>
+          2(金) Bossa Nova Night Vol.172
+          <a rel="lightbox" href="flyer/261002.png"><img src="images/flyer.png" /></a><br />
+          <div style="margin-left: 40px;"> 20:00 <a href="http://www.sixty-six-live.com/">SIXTY SIX</a>/四日市<br />
+            青木弦六(g)，Woody坂倉(b)</div>
+          3(土) 今岡友美＆後藤勇人
+          <a rel="lightbox" href="flyer/261003.png"><img src="images/flyer.png" /></a><br />
+          <div style="margin-left: 40px;">  <a href="https://hazu-coffee.com/">ハヅコーヒー</a>/四日市<br />
+            今岡友美(vo)，後藤勇人(ts,ss)，片桐一篤(p)，林かな(b)</div>
+          11(日) 発表会サポート
+          <a rel="lightbox" href="flyer/261011.png"><img src="images/flyer.png" /></a><br />
+          <div style="margin-left: 40px;">  <a href="https://www.nakamura-music.com/">なかむら音楽教室</a>/鈴鹿<br />
+            モロオカケイイチ(b)</div>
+          21(水) 66 Session vol.160
+          <a rel="lightbox" href="flyer/261021.png"><img src="images/flyer.png" /></a><br />
+          <div style="margin-left: 40px;"> 20:00 <a href="http://www.sixty-six-live.com/">SIXTY SIX</a>/四日市<br />
+            森田純代(p)，土田邦雄(b)</div>
+          23(金) Carrera Jam Session Vol.99
+          <a rel="lightbox" href="flyer/261023.png"><img src="images/flyer.png" /></a><br />
+          <div style="margin-left: 40px;"> 19:30 <a href="http://clrlab.net/carrera/">Carrera</a>/鈴鹿<br />
+            未定</div>
+          24(土) Ah-Un Talk
+          <a rel="lightbox" href="flyer/261024.png"><img src="images/flyer.png" /></a><br />
+          <div style="margin-left: 40px;">  <a href="https://sites.google.com/view/streganagoya/top">Strega</a>/名古屋<br />
+            野坂美紀(g)，モロオカケイイチ(b)</div>
+          25(日) 大人の発表会
+          <a rel="lightbox" href="flyer/261025.png"><img src="images/flyer.png" /></a><br />
+          <div style="margin-left: 40px;">  <a href="https://primavera.jp/">プリマベーラ</a>/鈴鹿<br />
+            モロオカケイイチ(b)</div>
+<br />
+          <h4>【11月】</h4>
+          6(金) Bossa Nova Night w錦 Vol.173
+          <a rel="lightbox" href="flyer/261106.png"><img src="images/flyer.png" /></a><br />
+          <div style="margin-left: 40px;"> 20:00 <a href="http://www.sixty-six-live.com/">SIXTY SIX</a>/四日市<br />
+            青木弦六(g)，Woody坂倉(b)，錦正佳(vo,g)</div>
+          15(日) Hawaiian Eyes
+          <a rel="lightbox" href="flyer/261115.png"><img src="images/flyer.png" /></a><br />
+          <div style="margin-left: 40px;">  <a href="">岡崎能楽堂</a>/岡崎<br />
+            塩崎保則(g,vo)，青木弦六(g)，田中奈月(vo)，田村博文(b)</div>
+          18(水) 66 Session vol.161
+          <a rel="lightbox" href="flyer/261118.png"><img src="images/flyer.png" /></a><br />
+          <div style="margin-left: 40px;"> 20:00 <a href="http://www.sixty-six-live.com/">SIXTY SIX</a>/四日市<br />
+            土田邦雄(b)</div>
+          27(金) Carrera Jam Session Vol.100
+          <a rel="lightbox" href="flyer/261127.png"><img src="images/flyer.png" /></a><br />
+          <div style="margin-left: 40px;"> 19:30 <a href="http://clrlab.net/carrera/">Carrera</a>/鈴鹿<br />
+            未定</div>
+<br />
+          <h4>【12月】</h4>
+          4(金) Bossa Nova Night Vol.174
+          <a rel="lightbox" href="flyer/261204.png"><img src="images/flyer.png" /></a><br />
+          <div style="margin-left: 40px;"> 20:00 <a href="http://www.sixty-six-live.com/">SIXTY SIX</a>/四日市<br />
+            青木弦六(g)，Woody坂倉(b)</div>
+          16(水) 66 Session vol.162
+          <a rel="lightbox" href="flyer/261216.png"><img src="images/flyer.png" /></a><br />
+          <div style="margin-left: 40px;"> 20:00 <a href="http://www.sixty-six-live.com/">SIXTY SIX</a>/四日市<br />
+            森田純代(p)，土田邦雄(b)</div>
+          25(金) Carrera Jam Session Vol.101
+          <a rel="lightbox" href="flyer/261225.png"><img src="images/flyer.png" /></a><br />
+          <div style="margin-left: 40px;"> 19:30 <a href="http://clrlab.net/carrera/">Carrera</a>/鈴鹿<br />
+            未定</div>
+          30(水) 美山晃大年末セッション(vol.11)
+          <a rel="lightbox" href="flyer/261230.png"><img src="images/flyer.png" /></a><br />
+          <div style="margin-left: 40px;"> 20:00 <a href="http://www.sixty-six-live.com/">SIXTY SIX</a>/四日市<br />
+            美山晃大(p)，河内拓哉(vo,vtp)，モロオカケイイチ(b)</div>
+
+
+<br />
+          <img style="border: 2px solid #ccc;" alt="my kit" src="images/pic.jpg"> </div>
+        <div class="right" style="margin-left: -135px;">
+          <h2>Mie Music Venues</h2>
+          <br />
+          <a href="http://www.sixty-six-live.com/" style="font-weight: bold;">Live House SIXTY SIX</a><br />
+          <br />
+          <a href="http://www.jazzspot-veejay.com/" style="font-weight: bold;">Jazz spot VeeJay</a><br />
+          <br />
+          <a href="https://takezero-jazz.amebaownd.com/" style="font-weight: bold;">Jazz Take Zero</a><br />
+          <br />
+          <a href="http://clrlab.net/carrera/" style="font-weight: bold;">Coffee Jazz Carrera</a><br />
+          <br />
+          <a href="http://jazzdojo.web.fc2.com/" style="font-weight: bold;">ジャズ道場 GROOVE</a><br />
+          <br />
+          珈琲館はせ川<br />
+          <br />
+          <a href="https://www.jazzserai.com/" style="font-weight: bold;">Jazz茶房 Serai</a><br />
+          <br />
+          <a href="https://access2021.wixsite.com/bran" style="font-weight: bold;">Cafe&amp;Live Bar BRAN</a><br />
+          <br />
+          <a href="http://bareast.jp/" style="font-weight: bold;">BAR EAST</a><br />
+          <br />
+          <a href="http://www.lastwaltz.biz/" style="font-weight: bold;">Last Waltz</a><br />
+          <br />
+          <a href="http://sound.jp/yokkaichi-fullhouse/" style="font-weight: bold;">Full House 倶楽部</a> </div>
+
+        <div style="clear: both;">Last update : May.1</div>
+      </div>
+      <div id="footer"><small>Copyright(C) 1998-2026 J.A.. All Rights Reserved.</small></div>
+      <div class="left">
+      <a href="http://h.accesstrade.net/sp/cc?rk=01000zh300en3q" rel="nofollow" target="_blank"><img src="http://h.accesstrade.net/sp/rr?rk=01000zh300en3q" alt="" border="0"></a>
+      <a href="https://hb.afl.rakuten.co.jp/hsc/1996c853.1a55b334.1996c807.dbaf4c8f/?link_type=pict&amp;ut=eyJwYWdlIjoic2hvcCIsInR5cGUiOiJwaWN0IiwiY29sIjowLCJjYXQiOiIxIiwiYmFuIjoiMzQyOTM5In0%3D" target="_blank" rel="nofollow noopener noreferrer" style="word-wrap:break-word;"><img src="https://hbb.afl.rakuten.co.jp/hsb/1996c853.1a55b334.1996c807.dbaf4c8f/?me_id=1&amp;me_adv_id=342939&amp;t=pict" style="margin:2px" alt="" title="" border="0"></a>
+      <iframe src="https://rcm-fe.amazon-adsystem.com/e/cm?o=9&amp;p=6&amp;l=ur1&amp;category=amazonrotate&amp;f=ifr&amp;linkID=94fb48b2f5cda0cee618e8df57f1cbdd&amp;t=clrlab-22&amp;tracking_id=clrlab-22" scrolling="no" border="0" marginwidth="0" style="border:none;" height="150" frameborder="0" width="120"></iframe>
+      </div>
+     </div>
+    <iframe scrolling="no" src="http://www.cty-net.ne.jp/%7Eark/hvw/blank.html" allowtransparency="true" height="0" frameborder="0" width="0"></iframe>
+    <!--#exec cmd="../cgi-bin/webaxs2.pl"-->
+  </body>
+</html>
