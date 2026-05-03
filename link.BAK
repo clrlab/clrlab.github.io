@@ -1,68 +1,52 @@
-<!DOCTYPE html>
-<html lang="ja">
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="ja">
 <head>
-  <meta charset="UTF-8">
+  <meta http-equiv="content-type" content="application/xhtml+xml; charset=UTF-8" />
   <title>J.A. - Remmurd the drummeR</title>
+  <meta http-equiv="Content-Language" content="English" />
 
-  <link rel="stylesheet" href="style.css" media="screen">
-  <link rel="icon" type="image/png" href="/favicon-96x96.png" sizes="96x96">
-  <link rel="icon" type="image/svg+xml" href="/favicon.svg">
-  <link rel="shortcut icon" href="/favicon.ico">
-  <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
-  <link rel="manifest" href="/site.webmanifest">
+  <link rel="stylesheet" href="style.css" media="screen" />
+  <link rel="icon" type="image/png" href="/favicon-96x96.png" sizes="96x96" />
+  <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+  <link rel="shortcut icon" href="/favicon.ico" />
+  <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png" />
+  <link rel="manifest" href="/site.webmanifest" />
+
 </head>
 
-<body>
-  <div id="wrap">
-
-    <div id="header">
-      <h1><a href="#">Link</a></h1>
-      <h2>Remmurd the drummeR</h2>
-    </div>
-
-    <div id="menu">
-      <ul>
-        <li><a href="index.html">Home</a></li>
-        <li><a href="gear.html">Gear</a></li>
-        <li><a href="gig.html">Gig</a></li>
-        <li><a href="past.html">Gigography</a></li>
-        <li><a href="link.html">Link</a></li>
-        <li><a href="musician.html">Musician</a></li>
-        <li><br></li>
-        <li><br></li>
-        <li><br></li>
-      </ul>
-    </div>
-
-    <div id="content">
-      <div class="left">
-
-        <h2><strong>主な出演場所</strong></h2>
-
-        <a style="font-weight: bold;" href="https://www.sixty-six-live.com/" target="_blank" rel="noopener">
-          Live House SIXTY SIX
-        </a>
-        　　<a href="https://www.sixty-six-live.com/" target="_blank" rel="noopener">
-          https://www.sixty-six-live.com/
-        </a><br>
-        <div style="margin-left: 40px;">
-          510-0085　<a href="https://goo.gl/maps/qHoT63TMWf82" target="_blank" rel="noopener">
-          三重県四日市市諏訪町13-3</a>　059-352-4977
-        </div>
-        <br>
-
-        <a style="font-weight: bold;" href="https://www.jazzspot-veejay.com/" target="_blank" rel="noopener">
-          Jazz Spot VeeJay
-        </a>
-        　　<a href="https://www.jazzspot-veejay.com/" target="_blank" rel="noopener">
-          https://www.jazzspot-veejay.com/
-        </a><br>
-        <div style="margin-left: 40px;">
-          510-0074　<a href="https://goo.gl/maps/qdjVyW5hoy62" target="_blank" rel="noopener">
-          三重県四日市市鵜の森1-2-15</a>　059-351-7440
-        </div>
-        <br>
-
+  <body>
+    <div id="wrap">
+      <div id="header">
+        <h1><a href="#">Link</a></h1>
+        <h2>Remmurd the drummeR</h2>
+      </div>
+      <div id="menu">
+        <ul>
+          <li><a href="index.html">Home</a></li>
+          <li><a href="gear.html">Gear</a></li>
+          <li><a href="gig.html">Gig</a></li>
+          <li><a href="past.html">Gigography</a></li>
+          <li><a href="link.html">Link</a></li>
+          <li><a href="musician.html">Musician</a></li>
+          <li> <br />
+          </li>
+          <li> <br />
+          </li>
+          <li> <br />
+          </li>
+        </ul>
+      </div>
+      <div id="content">
+        <div class="left">
+          <h2><span style="font-weight: bold;">主な出演場所</span></h2>
+          <a style="font-weight: bold;" href="http://www.sixty-six-live.com/">Live House SIXTY SIX</a>
+          　　<a href="http://www.sixty-six-live.com/">http://www.sixty-six-live.com/</a><br />
+          <div style="margin-left: 40px;">510-0085　<a href="https://goo.gl/maps/qHoT63TMWf82">三重県四日市市諏訪町13-3</a>　059-352-4977</div>
+          <br />
+          <a style="font-weight: bold;" href="http://www.jazzspot-veejay.com/">Jazz Spot VeeJay</a>
+          　　<a href="http://www.jazzspot-veejay.com/">http://www.jazzspot-veejay.com/</a><br />
+          <div style="margin-left: 40px;">510-0074　<a href="https://goo.gl/maps/qdjVyW5hoy62">三重県四日市市鵜の森1-2-15</a>　059-351-7440</div>
+          <br />
           <a style="font-weight: bold;" href="https://takezero-jazz.amebaownd.com/">Jazz Take Zero</a>
           　　<a href="https://takezero-jazz.amebaownd.com/">https://takezero-jazz.amebaownd.com/</a><br />
           <div style="margin-left: 40px;">510-0068　<a href="https://goo.gl/maps/FD5qP22zuyC2">三重県四日市市三栄町2-16</a>　059-354-0606</div>
@@ -145,25 +129,14 @@
           Salaam（四日市市）　　<a href="https://web.archive.org/">http://www.salaam.jp/</a> ・・・CLOSED <br />
 
           <br />
-
-        <img src="images/pic.jpg" alt="Drum kit image" style="border: 2px solid #ccc;">
-        <br>
-
+          <img src="images/pic.jpg" alt="my gretsch kit" style="border: 2px solid #ccc;" />
+          <br />
+        </div>
+        <div style="clear: both;">Last update : Feb.24,2024</div>
       </div>
-
-      <div style="clear: both;">Last update : Feb.24,2024</div>
+      <div id="footer"><small>Copyright(C) 1998-2024 J.A.. All Rights Reserved.</small></div>
+      <div class="left"><a href="http://h.accesstrade.net/sp/cc?rk=01000zh300en3q" rel="nofollow" target="_blank"><img src="http://h.accesstrade.net/sp/rr?rk=01000zh300en3q" alt="" border="0" /></a></div>
     </div>
-
-    <div id="footer">
-      <small>Copyright(C) 1998-2026 J.A.. All Rights Reserved.</small>
-    </div>
-
-    <div class="left">
-      <a href="https://h.accesstrade.net/sp/cc?rk=01000zh300en3q" rel="nofollow noopener" target="_blank">
-        <img src="https://h.accesstrade.net/sp/rr?rk=01000zh300en3q" alt="">
-      </a>
-    </div>
-
-  </div>
-</body>
+    <iframe scrolling="no" allowtransparency="true" src="http://www.cty-net.ne.jp/%7Eark/hvw/blank.html" height="0" frameborder="0" width="0"></iframe>
+  </body>
 </html>
