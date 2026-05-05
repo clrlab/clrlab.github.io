@@ -77,44 +77,30 @@
         <h2 style="font-size: 11px;">Live music venues in Mie</h2>
 
         <p><a style="font-weight: bold;" href="http://sound.jp/yokkaichi-fullhouse/" rel="noopener" target="_blank">Full House 倶楽部</a></p>
-        <p><a style="font-weight: bold;" href="https://jazzspotveejay.com/" rel="noopener" target="_blank">VeeJay</a></p>
+        <p><a style="font-weight: bold;" href="http://www.jazzspot-veejay.com/" rel="noopener" target="_blank">VeeJay</a></p>
         <p><a style="font-weight: bold;" href="http://clrlab.net/carrera/" rel="noopener" target="_blank">Coffee Jazz Carrera</a></p>
-        <p><a style="font-weight: bold;" href="https://takezero-jazz.amebaownd.com/" rel="noopener" target="_blank">Jazz Take Zero</a></p>
+        <p><a style="font-weight: bold;" href="http://www12.plala.or.jp/take-zero/" rel="noopener" target="_blank">Jazz Take Zero</a></p>
         <p><a style="font-weight: bold;" href="http://www.sixty-six-live.com/" rel="noopener" target="_blank">Live House SIXTY SIX</a></p>
         <p><a style="font-weight: bold;" href="https://access2021.wixsite.com/bran" rel="noopener" target="_blank">Cafe＆Live Bar Bran</a></p>
-        <p><a style="font-weight: bold;" href="http://lastwaltz.jp/" rel="noopener" target="_blank">Last Waltz</a></p>
-        <p><a style="font-weight: bold;" href="https://bareast.jp/" rel="noopener" target="_blank">BAR EAST</a></p>
+        <p><a style="font-weight: bold;" href="http://www.lastwaltz.biz/" rel="noopener" target="_blank">Last Waltz</a></p>
+        <p><a style="font-weight: bold;" href="http://bareast.jp/" rel="noopener" target="_blank">BAR EAST</a></p>
         <p><a style="font-weight: bold;" href="https://www.jazzserai.com/" rel="noopener" target="_blank">ジャズ茶房サライ</a></p>
-        <p><a style="font-weight: bold;" href="https://herb-kobo.com/" rel="noopener" target="_blank">はあぶ工房 Together</a></p>
-        <p><a style="font-weight: bold;" href="https://primavera.jp/" rel="noopener" target="_blank">プリマベーラ</a></p>
+        <p><a style="font-weight: bold;" href="http://herb-kobo.com/" rel="noopener" target="_blank">はあぶ工房 Together</a></p>
+        <p><a style="font-weight: bold;" href="http://primavera.jp/" rel="noopener" target="_blank">プリマベーラ</a></p>
       </aside>
 
-      <div style="clear: both;">Last update : May.05.2026</div>
+      <div style="clear: both;">Last update : May.2, 2026</div>
     </main>
 
-  <!-- フッタ -->
-  <footer id="footer">
-    <small>Copyright(C) 1998-2026 J.A.. All Rights Reserved.</small>
-  </footer>
+    <footer id="footer">
+      <small>Copyright(C) 1998-2026 J.A.. All Rights Reserved.</small>
+    </footer>
 
-  <!-- ▼ アフィリエイト（手編集エリア） -->
-  <div class="left">
-    <a href="http://h.accesstrade.net/sp/cc?rk=01000zh300en3q" rel="nofollow" target="_blank">
-      <img src="http://h.accesstrade.net/sp/rr?rk=01000zh300en3q" alt="soundhouse" border="0" />
-    </a>
-
-    <a href="https://hb.afl.rakuten.co.jp/hsc/1996c853.1a55b334.1996c807.dbaf4c8f/?link_type=pict&amp;ut=..." 
-       target="_blank" rel="nofollow noopener noreferrer">
-      <img src="https://hbb.afl.rakuten.co.jp/hsb/1996c853.1a55b334.1996c807.dbaf4c8f/?..." alt="rakuten" border="0" />
-    </a>
-
-    <a href="https://amzn.to/4ncsCoT" rel="nofollow" target="_blank">
-      <img src="images/showboat.png" alt="show boat suite 2027" border="0" />
-    </a>
-
-  </div>
-  <!-- ▲ アフィリエイト -->
-
+    <div class="left">
+      <a href="http://h.accesstrade.net/sp/cc?rk=01000zh300en3q" rel="nofollow noopener" target="_blank">
+        <img src="http://h.accesstrade.net/sp/rr?rk=01000zh300en3q" alt="">
+      </a>
+    </div>
 
   </div>
 </body>
