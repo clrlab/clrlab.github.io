@@ -163,24 +163,27 @@
       <div style="clear: both;">Last update : May.1</div>
     </div>
 
-    <div id="footer">
+    <footer id="footer">
       <small>Copyright(C) 1998-2026 J.A.. All Rights Reserved.</small>
-    </div>
+    </footer>
 
-    <div class="left">
-      <a href="https://h.accesstrade.net/sp/cc?rk=01000zh300en3q" rel="nofollow noopener" target="_blank">
-        <img src="https://h.accesstrade.net/sp/rr?rk=01000zh300en3q" alt="">
-      </a>
+  <!-- ▼ アフィリエイト（手編集エリア） -->
+  <div class="left">
+    <a href="http://h.accesstrade.net/sp/cc?rk=01000zh300en3q" rel="nofollow" target="_blank">
+      <img src="http://h.accesstrade.net/sp/rr?rk=01000zh300en3q" alt="soundhouse" border="0" />
+    </a>
 
-      <a href="https://hb.afl.rakuten.co.jp/hsc/1996c853.1a55b334.1996c807.dbaf4c8f/?link_type=pict&amp;ut=eyJwYWdlIjoic2hvcCIsInR5cGUiOiJwaWN0IiwiY29sIjowLCJjYXQiOiIxIiwiYmFuIjoiMzQyOTM5In0%3D"
-         target="_blank" rel="nofollow noopener noreferrer">
-        <img src="https://hbb.afl.rakuten.co.jp/hsb/1996c853.1a55b334.1996c807.dbaf4c8f/?me_id=1&amp;me_adv_id=342939&amp;t=pict" style="margin:2px" alt="">
-      </a>
+    <a href="https://hb.afl.rakuten.co.jp/hsc/1996c853.1a55b334.1996c807.dbaf4c8f/?link_type=pict&amp;ut=..." 
+       target="_blank" rel="nofollow noopener noreferrer">
+      <img src="https://hbb.afl.rakuten.co.jp/hsb/1996c853.1a55b334.1996c807.dbaf4c8f/?..." alt="rakuten" border="0" />
+    </a>
 
-      <iframe src="https://rcm-fe.amazon-adsystem.com/e/cm?o=9&amp;p=6&amp;l=ur1&amp;category=amazonrotate&amp;f=ifr&amp;linkID=94fb48b2f5cda0cee618e8df57f1cbdd&amp;t=clrlab-22&amp;tracking_id=clrlab-22"
-              style="border:none;" height="150" width="120"></iframe>
-    </div>
+    <a href="https://amzn.to/4ncsCoT" rel="nofollow" target="_blank">
+      <img src="images/showboat.png" alt="show boat suite 2027" border="0" />
+    </a>
 
+  </div>
+  <!-- ▲ アフィリエイト -->
   </div>
 </body>
 </html>
